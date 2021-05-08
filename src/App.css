@@ -47,10 +47,9 @@
 
 .container {
 
-  width: 85%; /* to prevent things touching the sides*/
-  /* max-width: 85em; */
+  width: 85%; 
   margin: 1em auto;
-  background-color: #c9d5ee;
+  background-color: #c4d4f5;
 }
 
 
